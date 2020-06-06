@@ -1,0 +1,10 @@
+C:\Users\Nicolás\source\repos\Evaluacion2NET\bin\Debug\Evaluacion2NET.exe.config
+C:\Users\Nicolás\source\repos\Evaluacion2NET\bin\Debug\Evaluacion2NET.exe
+C:\Users\Nicolás\source\repos\Evaluacion2NET\bin\Debug\Evaluacion2NET.pdb
+C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.csprojAssemblyReference.cache
+C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.Properties.Resources.resources
+C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.csproj.GenerateResource.cache
+C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.exe
+C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.pdb
+C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Vista.Form1.resources
