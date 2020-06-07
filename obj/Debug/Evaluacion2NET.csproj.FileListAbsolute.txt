@@ -7,4 +7,8 @@ C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.csproj.Ge
 C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.csproj.CoreCompileInputs.cache
 C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.exe
 C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.pdb
-C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Vista.Form1.resources
+C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.Vista._ventanaCrearCaja.resources
+C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.Vista._ventanaCrearPedido.resources
+C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Vista._ventanaLogin.resources
+C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.Vista._ventanaMenu.resources
+C:\Users\Nicolás\source\repos\Evaluacion2NET\obj\Debug\Evaluacion2NET.Vista._ventanaSeleccionCaja.resources
