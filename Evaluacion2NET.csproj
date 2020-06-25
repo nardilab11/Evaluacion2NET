@@ -50,7 +50,6 @@
     <Compile Include="Modelo\Cajero.cs" />
     <Compile Include="Modelo\Cliente.cs" />
     <Compile Include="Modelo\Empleado.cs" />
-    <Compile Include="Modelo\Garzon.cs" />
     <Compile Include="Modelo\Pedido.cs" />
     <Compile Include="Modelo\Persona.cs" />
     <Compile Include="Modelo\Repartidor.cs" />
@@ -125,6 +124,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Imagenes\IconoPizza.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Modelo\Interfaz\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
